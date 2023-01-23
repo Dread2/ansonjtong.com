@@ -77,9 +77,12 @@ A personal blog hosted on Firebase using a mix of frameworks, component librarie
 <!-- GETTING STARTED -->
 ## Getting Started
 
+TO BE FILLED
+
+### Known Issues
 Resolve Warning:
 The resource http://localhost:5173/fonts/ErvaEsra.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
-
+-Has to do with SSR, seems finicky on SvelteKit. 
 
 ### Prerequisites
 
@@ -156,7 +159,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
