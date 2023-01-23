@@ -41,4 +41,6 @@
 		--dark: #000000;
 		--light: #eeeeee;
 	}
+	
 </style>
+<slot />
