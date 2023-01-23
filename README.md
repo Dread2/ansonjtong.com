@@ -77,8 +77,9 @@ A personal blog hosted on Firebase using a mix of frameworks, component librarie
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To be
-Filled
+Resolve Warning:
+The resource http://localhost:5173/fonts/ErvaEsra.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+
 
 ### Prerequisites
 
